@@ -1,47 +1,56 @@
-# Privacy Policy
-Privacy Policy
-Privacy Policy
+PRIVACY POLICY
 
 Last updated: July 21, 2026
 
-CFA Level I Learner ("we", "our", or "us") is committed to protecting your privacy. This Privacy Policy explains how we handle information when you use our mobile application.
+This Privacy Policy describes how CFA Level I Learner ("we," "our," or "the App") handles your information when you use our mobile application.
 
-1. Information We Collect
+1. NO DATA COLLECTION
 
-This application operates entirely offline and does NOT collect, store, or transmit any personal information. We do not require account creation, login, or any form of registration.
+CFA Level I Learner does not collect, transmit, or share any personal information, usage data, or device identifiers. The App is designed to function entirely offline with no network communication.
 
-2. Local Storage Only
+2. LOCAL STORAGE ONLY
 
-All data generated while using this app (including study progress, quiz scores, notes, bookmarks, and language preferences) is stored exclusively on your device using local storage mechanisms (LocalForage). No data is transmitted to any external server or third party.
+All data you create within the App is stored exclusively on your device using local storage (IndexedDB). This data never leaves your device and is not accessible to us or any third party. The App stores the following types of data locally:
 
-3. No Third-Party Services
+- Quiz and mock exam results (scores, dates, topic performance)
+- Reading completion progress
+- Study notes you create
+- Bookmarks you save
+- Study time logs
+- Language preference (English, French, or Spanish)
 
-This application does not integrate any third-party analytics, advertising, tracking, or crash reporting services. The app functions fully offline with no network communication.
+3. NO THIRD-PARTY SERVICES
 
-4. No Data Collection
+The App does not integrate with any third-party analytics, advertising, or tracking services. Specifically, the App does not use:
 
-We do not collect, use, or share any personal data, usage statistics, device information, or location data. There is no analytics SDK, tracking code, or telemetry of any kind embedded in this application.
+- Firebase or any Google Cloud services
+- Google Analytics or any analytics SDK
+- Advertising networks
+- Crash reporting tools
+- Any remote APIs or servers
 
-5. Children's Privacy
+All study content (lessons, questions, and UI text) is bundled with the App and loaded from local files. No content is fetched from the internet.
 
-Our application is designed for adult learners preparing for financial examinations. We do not knowingly collect any information from children under the age of 13.
+4. NO USER ACCOUNTS
 
-6. Changes to This Policy
+The App does not require or support user registration, login, or authentication. There are no user accounts, and we have no ability to identify individual users.
 
-We may update this Privacy Policy from time to time. Any changes will be posted within the application and on this page. Continued use of the app after changes constitutes acceptance of the updated policy.
+5. NO CHILDREN'S DATA
 
-7. Third-Party Links
+The App is designed for adult learners preparing for the CFA Level I examination. It does not knowingly collect any data from children under the age of 13.
 
-The application may contain references to external resources (such as CFA Institute). We are not responsible for the privacy practices of these third parties.
+6. DATA DELETION
 
-8. Disclaimer
+You can delete all stored data at any time by going to Settings > Clear All Data within the App. Additionally, you can clear the App's data through your device's application settings.
 
-This application is an unofficial study aid and is not affiliated with, endorsed by, or approved by CFA Institute. CFA Institute does not endorse or promote this application.
+7. CHANGES TO THIS POLICY
 
-9. Contact Us
+We may update this Privacy Policy from time to time. Changes will be posted within the App or on the App's store listing. Continued use of the App after changes constitutes acceptance of the updated policy.
 
-If you have any questions about this Privacy Policy, please contact the developer at the email address listed on the Google Play Store listing or Email: ivanng611@gmail.com
+8. CONTACT US
 
-10. Complete Offline Operation
+If you have questions about this Privacy Policy, please contact the developer at the email address listed on the Google Play Store listing for this App or Email: ivanng611@gmail.com
 
-This app is designed to work 100% offline. No internet connection is required after installation. We deliberately chose not to implement any network features to ensure your complete privacy.
+9. DISCLAIMER
+
+CFA Level I Learner is an unofficial study aid and is not affiliated with, endorsed by, or sponsored by the CFA Institute. All CFA Institute content and trademarks are the property of the CFA Institute.
